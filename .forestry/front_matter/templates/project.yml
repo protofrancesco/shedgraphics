@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/giovesi.md
 - projects/ios-concept.md
 - projects/shed626-music-hub.md
 - projects/spinnit.md
