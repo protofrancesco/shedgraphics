@@ -1,10 +1,9 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+thumbnail: "/uploads/business-card-rais.jpg"
+title: RAIS - Sea Bar
 date: 2019-02-06
 categories:
-- photography
-- blue
+- brand identity
 project_bg_color: "#EDEDED"
 project_fg_color: "#36B5EF"
 
