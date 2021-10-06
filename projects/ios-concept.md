@@ -1,10 +1,9 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: "/uploads/vetrina-musa.jpg"
+title: MUSA
 date: 2019-01-03
 categories:
-- photography
-- yellow
+- brand identity
 project_bg_color: ''
 project_fg_color: ''
 
